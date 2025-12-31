@@ -1,5 +1,10 @@
 # Olist E-commerce Analytics Case Study
 
+## Данные
+
+Скачайте датасет с [Kaggle - Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
+и распакуйте CSV файлы в папку `data/rows/`
+
 ## Цель проекта
 Проанализировать продажи и поведение клиентов в интернет-магазине Olist, чтобы:
 - выявить самые прибыльные категории товаров,  
