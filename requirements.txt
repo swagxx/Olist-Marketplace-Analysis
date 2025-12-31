@@ -1,0 +1,13 @@
+# Работа с данными и т.п.
+pandas>=2.0
+numpy>=1.25
+
+# Визуализация
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.0
+
+# Jupyter
+jupyterlab>=4.0
+
+
